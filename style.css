@@ -54,7 +54,6 @@ figure img {
 #atractions img {
   width: 100%;
   border-radius: 28px;
-  max-height: 350px;
 }
 
 figcaption {
@@ -136,3 +135,8 @@ li.budget {
   margin: 36px 0;
   background-color: #d9d9d9;
 }
+
+/* img.img-fix {
+  object-fit: cover;
+  margin-top: 10px;
+} */
